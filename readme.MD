@@ -17,6 +17,8 @@ Pandas: Manipulação e tratamento de DataFrames.
 
 Plotly Express: Biblioteca para geração de gráficos interativos e modernos.
 
+Jupyter Notebook: Ambiente de desenvolvimento.
+
 # Estrutura do Dataset
 O projeto consome dados que incluem:
 
